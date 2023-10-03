@@ -1,1 +1,0 @@
-# Typescrit-POO
